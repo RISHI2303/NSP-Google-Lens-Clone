@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate  android:fromXDelta="100%"
+                android:fromYDelta="0%"
+                android:toXDelta="0%"
+                android:toYDelta="0%"
+                android:duration="500"/>
+    <!--
+    XDelta="-100%" means just out of the screen from left
+    XDelta="100%" means just out of the screen from right
+    XDelta="0%" means fit to the screen
+    all same for YDelta too
+    -->
+</set>
